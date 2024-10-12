@@ -1,6 +1,6 @@
-# Web Programming Assignments 5
+# Web Programming Assignments 6
 
-Welcome to my web programming assignments 5 repository!
+Welcome to my web programming assignments 6 repository!
 
 ![Banner](https://c.tenor.com/bCfpwMjfAi0AAAAC/tenor.gif)
 
